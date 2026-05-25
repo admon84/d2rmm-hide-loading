@@ -1,0 +1,9 @@
+{
+  "$schema": "../config-schema.json",
+  "name": "Hide Loading",
+  "description": "Hide the loading screen panel in D2R.",
+  "author": "admon84",
+  "version": "0.1",
+  "website": "https://github.com/admon84/d2rmm-hide-loading",
+  "config": []
+}
